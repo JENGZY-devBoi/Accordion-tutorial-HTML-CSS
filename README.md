@@ -1,1 +1,1 @@
-# Accordion-tutorial-HTML-CSS
+# Component accordion
